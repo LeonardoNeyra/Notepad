@@ -1,2 +1,2 @@
-# Notepad  
+# Notepad :clipboard:  
 Miscelaneous content
